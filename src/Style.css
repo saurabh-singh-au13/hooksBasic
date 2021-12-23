@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+
+    
+}
+.item{
+    margin-top: 12%;
+
+}
+.count{
+    margin-left: 30px;
+  
+   
+    /* color: white; */
+}
+.btn{
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+    background-color: black;
+    color: white;
+
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+
+
+}
